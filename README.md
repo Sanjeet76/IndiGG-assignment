@@ -15,22 +15,23 @@ Responsive design for various screen sizes.</br>
 Alert messages for user feedback.</br>
 Start and restart the quiz.</br>
 
+
 #### usage
 
-Clone the repository to your local machine:<br>
-git clone https://github.com/Sanjeet76/IndiGG-assignment<br>
-Open the index.html file in a web browser to run the Quiz App.<br>
-Click the "Start" button to begin the quiz.<br>
-Answer each question by clicking on one of the provided choices.<br>
-Receive immediate feedback on your answers and see your score.<br>
-The timer will keep track of the time left for each question.<br>
-After completing the quiz, you can click "Next" to restart it or play again.<br>
+Clone the repository to your local machine:</br>
+git clone https://github.com/Sanjeet76/IndiGG-assignment</br>
+Open the index.html file in a web browser to run the Quiz App.</br>
+Click the "Start" button to begin the quiz.</br>
+Answer each question by clicking on one of the provided choices.</br>
+Receive immediate feedback on your answers and see your score.</br>
+The timer will keep track of the time left for each question.</br>
+After completing the quiz, you can click "Next" to restart it or play again.</br>
 
 #### Code Structure
 
-index.html: The main HTML file that contains the structure of the web page, including the quiz container and elements.<br>
-style.css: The CSS file for styling the quiz application and making it responsive.<br>
-script.js: The JavaScript file containing the quiz logic, question data, event handlers, and timer functionality.<br>
+index.html: The main HTML file that contains the structure of the web page, including the quiz container and elements.</br>
+style.css: The CSS file for styling the quiz application and making it responsive.</br>
+script.js: The JavaScript file containing the quiz logic, question data, event handlers, and timer functionality.</br>
 
 #### screenshot
 
