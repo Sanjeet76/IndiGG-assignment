@@ -103,7 +103,13 @@ const checkAnswer = () => {
 const showScore = () => {
     questionBox.textContent = "";
     choicesBox.textContent = "";
+   // scoreCard.textContent = `You Scored ${score} out of ${quiz.length}!`;
+   if (score === quiz.length) {
+    scoreCard.textContent = `You Scored ${score} out of ${quiz.length} correct!`;
+} else {
     scoreCard.textContent = `You Scored ${score} out of ${quiz.length}!`;
+}
+
     displayAlert("You have completed this quiz!");
     nextBtn.textContent = "Play Again";
     quizOver = true;
