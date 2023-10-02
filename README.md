@@ -35,7 +35,6 @@ script.js: The JavaScript file containing the quiz logic, question data, event h
 
 #### screenshot
 
-![Screenshot 2023-10-02 161650](https://github.com/Sanjeet76/IndiGG-assignment/assets/96953921/09b7b22b-f422-479e-9ef0-799b6ade4ac5)
 ![Screenshot 2023-10-02 161650](https://github.com/Sanjeet76/IndiGG-assignment/assets/96953921/41548262-6821-482f-9eef-4a7e045487af)
 
 
