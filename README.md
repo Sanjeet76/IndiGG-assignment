@@ -34,8 +34,10 @@ style.css: The CSS file for styling the quiz application and making it responsiv
 script.js: The JavaScript file containing the quiz logic, question data, event handlers, and timer functionality.</br>
 
 #### screenshot
+![Screenshot 2023-10-02 161556](https://github.com/Sanjeet76/IndiGG-assignment/assets/96953921/acc4e54c-a671-4c9a-87be-58ca961886d4)
+![Screenshot 2023-10-02 161650](https://github.com/Sanjeet76/IndiGG-assignment/assets/96953921/61af7a5b-1826-4e7a-b9d1-ae48a6c1b13b)
 
-![Screenshot 2023-10-02 161650](https://github.com/Sanjeet76/IndiGG-assignment/assets/96953921/41548262-6821-482f-9eef-4a7e045487af)
+
 
 
 
