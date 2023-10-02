@@ -1,7 +1,7 @@
 # Quiz App
 This is a simple quiz application built with HTML, CSS, and JavaScript. It allows users to answer a series of questions and keeps track of their score. The quiz also has a timer, and users can restart the quiz after completing it.
 
-####T able of Contents
+#### Table of Contents
 
 Features
 Usage
