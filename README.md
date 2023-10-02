@@ -2,19 +2,18 @@
 This is a simple quiz application built with HTML, CSS, and JavaScript. It allows users to answer a series of questions and keeps track of their score. The quiz also has a timer, and users can restart the quiz after completing it.
 
 #### Table of Contents
-
-Features<br>
-Usage<br>
-Code Structure<br>
-screenshot<br>
+<br>Features</br>
+Usage</br>
+Code Structure</br>
+screenshot</br>
 
 #### Features
-Multiple-choice questions with options.<br>
-Timer to track the time left for each question.<br>
-Score tracking.<br>
-Responsive design for various screen sizes.<br>
-Alert messages for user feedback.<br>
-Start and restart the quiz.<br>
+Multiple-choice questions with options.</br>
+Timer to track the time left for each question.</br>
+Score tracking.</br>
+Responsive design for various screen sizes.</br>
+Alert messages for user feedback.</br>
+Start and restart the quiz.</br>
 
 #### usage
 
