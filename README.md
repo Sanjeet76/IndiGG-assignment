@@ -5,6 +5,7 @@ This is a simple quiz application built with HTML, CSS, and JavaScript. It allow
 <br>Features</br>
 Usage</br>
 Code Structure</br>
+Demo</br>
 screenshot</br>
 
 #### Features
@@ -32,6 +33,9 @@ After completing the quiz, you can click "Next" to restart it or play again.</br
 index.html: The main HTML file that contains the structure of the web page, including the quiz container and elements.</br>
 style.css: The CSS file for styling the quiz application and making it responsive.</br>
 script.js: The JavaScript file containing the quiz logic, question data, event handlers, and timer functionality.</br>
+
+#### Demo
+https://sanjeet76.github.io/IndiGG-assignment/
 
 #### screenshot
 ![Screenshot 2023-10-02 161556](https://github.com/Sanjeet76/IndiGG-assignment/assets/96953921/acc4e54c-a671-4c9a-87be-58ca961886d4)
